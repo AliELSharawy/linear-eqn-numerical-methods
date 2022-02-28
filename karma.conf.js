@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/linearEqn'),
+      dir: require('path').join(__dirname, './coverage/Equations-Solver'),
       subdir: '.',
       reporters: [
         { type: 'html' },
