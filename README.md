@@ -1,4 +1,4 @@
-# linear-eqn-numerical-methods
+# linear equation calculator using numerical methods
 solving linear equations using numerical methods using Angular Framework:
   1. gauss elimination
   2. gauss jordan elimination 
