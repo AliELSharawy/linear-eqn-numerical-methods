@@ -41,6 +41,42 @@ solving linear equations using numerical methods using Angular Framework:
 ![5](https://user-images.githubusercontent.com/95590176/215343630-d82e2ae3-90dd-4073-9be7-1d5ca31bbff4.jpg)
 ![6](https://user-images.githubusercontent.com/95590176/215343633-f96d3626-cb0b-46c0-bad0-459558e5b2fe.jpg)
 
-## LU Decomposition Documentation
-  ## Doolittle Decomposition
-  
+## LU Decomposition Documentation:
+![1](https://user-images.githubusercontent.com/95590176/215344068-847099a6-3bfb-4d88-a180-bb495e6b429d.jpg)
+![2](https://user-images.githubusercontent.com/95590176/215344072-7a950e8e-66d4-435a-bee2-a0ee1878f280.jpg)
+![3](https://user-images.githubusercontent.com/95590176/215344073-1267ea5a-18e2-4689-a06e-bcd74eeb05a1.jpg)
+![4](https://user-images.githubusercontent.com/95590176/215344074-e4066102-917a-4394-8cc8-42b2010a747c.jpg)
+![5](https://user-images.githubusercontent.com/95590176/215344076-9c16f5e4-9fd2-4777-b44d-947811591136.jpg)
+![6](https://user-images.githubusercontent.com/95590176/215344077-94c3eb97-184d-40f7-b83e-ab3050b3dae5.jpg)
+![1](https://user-images.githubusercontent.com/95590176/215344205-87859be9-c767-4ccc-96e6-af78b2961c49.jpg)
+![2](https://user-images.githubusercontent.com/95590176/215344206-5913c364-55f4-44f6-9dce-dae5451064d9.jpg)
+![3](https://user-images.githubusercontent.com/95590176/215344208-ded7f19d-0350-482c-a990-1e3b36e5b8d1.jpg)
+![4](https://user-images.githubusercontent.com/95590176/215344209-436afbad-9217-49c2-9c5d-d941da64d5ae.jpg)
+![5](https://user-images.githubusercontent.com/95590176/215344210-db701a94-c2db-402e-bacb-817c5b9143f8.jpg)
+![6](https://user-images.githubusercontent.com/95590176/215344211-0ee99df1-3a44-48cf-924b-c4c6f3289d02.jpg)
+![7](https://user-images.githubusercontent.com/95590176/215344212-21f28969-566b-4b5c-bf07-212a53861217.jpg)
+![8](https://user-images.githubusercontent.com/95590176/215344213-3ebf4e1b-9707-4242-875d-407eb24cd067.jpg)
+![1](https://user-images.githubusercontent.com/95590176/215344401-299b9301-b6a1-48ef-83a6-c287f7dd2cff.jpg)
+![2](https://user-images.githubusercontent.com/95590176/215344403-6e6eee2f-fd8f-4416-9e04-1c29bc8c256c.jpg)
+![3](https://user-images.githubusercontent.com/95590176/215344404-1bdce7ba-d486-41da-a643-0de8c2e47508.jpg)
+![4](https://user-images.githubusercontent.com/95590176/215344405-ff6c286d-729d-4eb7-8492-a22398672155.jpg)
+![5](https://user-images.githubusercontent.com/95590176/215344406-d7a829bc-51ca-449f-af9a-32cce19cea36.jpg)
+![6](https://user-images.githubusercontent.com/95590176/215344407-89181df3-c73b-421c-ba80-1f2a783cedf4.jpg)
+![7](https://user-images.githubusercontent.com/95590176/215344409-71a0a446-3e37-4b76-b0c8-95bbeb12e3d5.jpg)
+![8](https://user-images.githubusercontent.com/95590176/215344410-591be1f7-f933-4f9c-b1a2-90df18f08e35.jpg)
+![9](https://user-images.githubusercontent.com/95590176/215344411-566d0f01-586f-4411-97b1-0cd4970b4b18.jpg)
+
+## Iterative Methods Documentation:
+![1](https://user-images.githubusercontent.com/95590176/215344665-25c70f78-3373-41a1-9cc4-4ad96d954fe5.jpg)
+![2](https://user-images.githubusercontent.com/95590176/215344670-298a214d-0cdd-4348-83a0-e69bb7b2754f.jpg)
+![3](https://user-images.githubusercontent.com/95590176/215344671-dddafe64-36d8-48c0-a93f-60dd0925ad33.jpg)
+![4](https://user-images.githubusercontent.com/95590176/215344674-1856918f-9347-42e5-b0da-da195e027f6a.jpg)
+![5](https://user-images.githubusercontent.com/95590176/215344676-b03859e2-b652-4c72-ac69-ed569747ff2c.jpg)
+![6](https://user-images.githubusercontent.com/95590176/215344677-69f99107-4e3f-418a-aebb-d6aaf451d23b.jpg)
+![7](https://user-images.githubusercontent.com/95590176/215344678-4c7b9bc2-9922-469a-8277-667565fe9207.jpg)
+![8](https://user-images.githubusercontent.com/95590176/215344680-203eabd4-b220-46d0-9106-8b3fa313dbf8.jpg)
+![9](https://user-images.githubusercontent.com/95590176/215344681-37631bd4-f87f-449c-8a8b-3421a9345437.jpg)
+![10](https://user-images.githubusercontent.com/95590176/215344685-6a1f1df7-e4ad-4ff6-acae-172149059764.jpg)
+
+## User Guide and Sample Runs:
+https://www.youtube.com/watch?v=g9zH5LeUTJA
