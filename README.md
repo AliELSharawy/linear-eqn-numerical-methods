@@ -13,7 +13,7 @@ solving linear equations using numerical methods using Angular Framework:
     Ziad Zidane
     
 ## Assumptions:
-![{516837A6-6F8D-4924-BC57-1DA37A093139} png](https://user-images.githubusercontent.com/95590176/215342907-339add6a-8154-4161-94a8-47d335f52bb9.jpg)
+![0](https://user-images.githubusercontent.com/95590176/215343260-daf868e7-141b-49a4-886a-2c57512c153e.jpg)
 ![{C9645FBB-C123-4800-B1A0-A399A545E01A} png](https://user-images.githubusercontent.com/95590176/215342913-f6238f1e-ae04-42f7-8baa-5513df08ba78.jpg)
 
 ## Gauss Elimination Documentation:
